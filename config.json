@@ -1,0 +1,28 @@
+{
+	"user" : {
+		"name" : "",
+		"password" : "",
+		"secret_key":""
+	},
+	"reddit" : {
+		"global" : {
+			"comment" : "Awesome-tasty-food",
+			"title" : "Awesome",
+			"link" : ""
+		},
+		"sub_reddits" : [
+			{
+				"name" : "VeganVitamixRecipes",
+				"comment" : "Awesome-tasty-food", 
+				"title" : "Awesome-tasty-food"
+			},
+			{
+				"name" : "Vegandveganrecipes",
+				"comment" : "Awesome-tasty-food", 
+				"title" : "Awesome-tasty-food"
+			}
+	]
+	}
+
+
+}
